@@ -54,14 +54,14 @@ xp: 100
 
 
 `@instructions`
-
+Fit a linear model to the gala dataset
 
 `@hint`
 
 
 `@pre_exercise_code`
 ```{r}
-library(faraway)
+require(faraway)
 ```
 
 `@sample_code`

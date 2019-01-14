@@ -61,7 +61,7 @@ Fit a linear model to the gala dataset
 
 `@pre_exercise_code`
 ```{r}
-require(faraway)
+
 ```
 
 `@sample_code`
